@@ -30,7 +30,7 @@ To run this project locally on your machine, follow these steps:
 
 **1. Clone the repository**
 \`\`\`bash
-git clone https://github.com/YOUR-USERNAME/society-maintenance-app.git
+git clone https://github.com/SWAMYNATHANV/society-maintenance-app.git
 \`\`\`
 
 **2. Setup the Backend**
